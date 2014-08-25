@@ -21,4 +21,4 @@ requires: {}
 resources:
   license: http://dev.perl.org/licenses/
   repository: https://github.com/rurban/Bundle-CPANReporter2
-version: '0.10'
+version: '0.11'
